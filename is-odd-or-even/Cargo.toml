@@ -1,0 +1,9 @@
+[package]
+name = "is-odd-or-even"
+version = "0.1.0"
+edition = "2021"
+
+[features]
+even = []
+
+[dependencies]
